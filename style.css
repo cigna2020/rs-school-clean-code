@@ -16,7 +16,8 @@
   width: 100%;
 }
 
-.aaa .more-inf {
+.aaa,
+.more-inf {
   font-family: fantasy, cursive;
 }
 
